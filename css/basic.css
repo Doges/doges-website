@@ -1,0 +1,58 @@
+body {
+	background-color: black;
+}
+
+@media (max-width: 980px) {
+body {
+  padding-top: 0;
+}
+}
+
+p {
+	color: white;
+}
+
+.first_p {
+	margin-top:0.83em;
+	margin-bottom:0;
+  font-size: 1.5em;
+}
+
+.second_p {
+	margin-top:0.83em;
+	margin-bottom:0;
+  font-size: 1.5em;
+}
+
+.img-responsive {
+  max-width: 40%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+@media (min-width: 1200px){
+  .right-middle-lg {
+    margin-left: -9%;
+  }
+}
+
+@media (min-width: 1200px){
+  .right-middle-lg {
+    margin-left: -9%;
+  }
+}
+
+@media (min-width: 1200px){
+  .col-lg-offset-2 {
+      margin-left: 20.666667%;
+  }
+}
