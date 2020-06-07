@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/5vsegxP.png"><br>
-  <p>
-    <a href="https://netlify.com/"><img src="https://i.imgur.com/oJjg6fA.png" alt="Deploys by Netlify" width="128" height="24"></a>
-  </p>
-</div>
+# lol
 
-Apenas uma cópia exata do site de dominio sob custódia da Policía Federal
+fuck you doges
